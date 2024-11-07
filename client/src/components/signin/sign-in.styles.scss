@@ -1,0 +1,15 @@
+@import "../../App.scss";
+
+.sign-in {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  margin: 1rem 0rem;
+  padding: 3rem;
+  background-color: aqua;
+
+  &_form {
+    width: 50%;
+  }
+}
